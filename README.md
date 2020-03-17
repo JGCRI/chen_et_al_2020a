@@ -9,6 +9,8 @@ Global future land use (LU) is an important input for Earth system models for pr
 ## Code reference
 Vernon, C.R. and M. Chen. (2020, March 17). crvernon/demeter: v1.chen (Version v1.chen). Zenodo. http://doi.org/10.5281/zenodo.3713378
 
+Calvin, Katherine, Patel, Pralit, Clarke, Leon, Asrar, Ghassem, Bond-Lamberty, Ben, Yiyun Cui, Ryna, … Wise, Marshall. (2020, March 17). crvernon/gcam-core: gcam-v4.3.chen (Version gcam-v4.3.chen). Zenodo. http://doi.org/10.5281/zenodo.3713432
+
 ## Journal reference
 journal reference here
 
@@ -19,4 +21,4 @@ data reference here
 | Model | Version | Repository Link | DOI |
 |-------|---------|-----------------|-----|
 | Demeter | v1.chen | https://github.com/crvernon/demeter/tree/v1.chen | http://doi.org/10.5281/zenodo.3713378 |
-| GCAM | version | repo link here | doi link here |
+| GCAM | gcam-v4.3.chen | https://github.com/crvernon/gcam-core/tree/gcam-v4.3.chen | http://doi.org/10.5281/zenodo.3713432 |
