@@ -15,7 +15,7 @@ Calvin, Katherine, Patel, Pralit, Clarke, Leon, Asrar, Ghassem, Bond-Lamberty, B
 journal reference here
 
 ## Data reference
-data reference here
+Chen, Min, & Vernon, Chris R. (2020). Demeter Inputs for Chen et al. 2020 [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3713486
 
 ## Contributing models
 | Model | Version | Repository Link | DOI |
