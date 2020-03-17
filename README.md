@@ -1,6 +1,6 @@
 <DOI tag here>
 
-# vernon_etal_jors_2019
+# chen_et_al_2020a
 Global land use projections for 2015-2100 at 0.05-degree resolution under diverse Shared Socioeconomic Pathways and Representative Concentration Pathways
 
 ## Abstract
