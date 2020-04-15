@@ -12,10 +12,16 @@ Vernon, C.R. and M. Chen. (2020, March 17). crvernon/demeter: v1.chen (Version v
 Calvin, Katherine, Patel, Pralit, Clarke, Leon, Asrar, Ghassem, Bond-Lamberty, Ben, Yiyun Cui, Ryna, … Wise, Marshall. (2020, March 17). crvernon/gcam-core: gcam-v4.3.chen (Version gcam-v4.3.chen). Zenodo. http://doi.org/10.5281/zenodo.3713432
 
 ## Journal reference
-journal reference here
+<journal reference here after publication>
 
 ## Data reference
+
+### Input data
 Chen, Min, & Vernon, Chris R. (2020). Demeter Inputs for Chen et al. 2020 [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3713486
+
+### Output data
+Chen, M. and C.R. Vernon (2020). GCAM-Demeter-LU [Data set]. DataHub. https://doi.org/10.25584/data.2020-04.1188/1614678
+
 
 ## Contributing models
 | Model | Version | Repository Link | DOI |
