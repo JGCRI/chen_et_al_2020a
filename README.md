@@ -1,4 +1,5 @@
-<DOI tag here>
+[![DOI](https://zenodo.org/badge/248003187.svg)](https://zenodo.org/badge/latestdoi/248003187)
+
 
 # chen_et_al_2020a
 Global land use projections for 2015-2100 at 0.05-degree resolution under diverse Shared Socioeconomic Pathways and Representative Concentration Pathways
