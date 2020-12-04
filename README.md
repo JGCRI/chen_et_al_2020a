@@ -13,7 +13,7 @@ Vernon, C.R. and M. Chen. (2020, March 17). crvernon/demeter: v1.chen (Version v
 Calvin, Katherine, Patel, Pralit, Clarke, Leon, Asrar, Ghassem, Bond-Lamberty, Ben, Yiyun Cui, Ryna, … Wise, Marshall. (2020, March 17). crvernon/gcam-core: gcam-v4.3.chen (Version gcam-v4.3.chen). Zenodo. http://doi.org/10.5281/zenodo.3713432
 
 ## Journal reference
-UPDATE: journal reference here after acceptance
+Chen, M., Vernon, C.R., Graham, N.T. et al. Global land use for 2015–2100 at 0.05° resolution under diverse socioeconomic and climate scenarios. Sci Data 7, 320 (2020). https://doi.org/10.1038/s41597-020-00669-x
 
 ## Data reference
 
